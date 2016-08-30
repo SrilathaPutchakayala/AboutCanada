@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AboutCanada</string>
+    <string name="service_url">https://dl.dropboxusercontent.com/u/746330/facts.json</string>
+    <string name="error_no_connection">Cannot connect to server. Please, check your Internet connectivity.</string>
+</resources>
